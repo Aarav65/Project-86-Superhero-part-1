@@ -1,10 +1,10 @@
 var canvas = new fabric.Canvas('myCanvas');
 
-var player_x 
-var player_y 
+player_x = 10;
+player_y = 10;
 
-var player_width
-var player_height = 30;
+block_image_width = 30;
+block_image_height = 30;
 
 var player_object = "";
 var block_image_object = "";
